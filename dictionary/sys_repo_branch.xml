@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="Aftakking van bronbesturing" max_length="40" name="sys_repo_branch" read_roles="admin" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="edit" max_length="40" name="x_aits2_githab_2_edit" type="string"/>
+    </element>
+</database>
