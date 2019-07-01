@@ -23,15 +23,15 @@
         <sys_created_by>artur.snusz</sys_created_by>
         <sys_created_on>2019-06-04 12:30:34</sys_created_on>
         <sys_id>d1266f06dbbd3700fdc880e239961951</sys_id>
-        <sys_mod_count>88</sys_mod_count>
+        <sys_mod_count>89</sys_mod_count>
         <sys_updated_by>artur.snusz</sys_updated_by>
-        <sys_updated_on>2019-07-01 18:08:24</sys_updated_on>
+        <sys_updated_on>2019-07-01 18:12:16</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <u_validated/>
         <user_role display_value="x_aits2_githab_2.user" name="x_aits2_githab_2.user">e9266f06dbbd3700fdc880e2399619c4</user_role>
         <vendor/>
         <vendor_prefix/>
-        <version>3.4.32</version>
+        <version>3.4.33</version>
     </sys_app>
 </record_update>
