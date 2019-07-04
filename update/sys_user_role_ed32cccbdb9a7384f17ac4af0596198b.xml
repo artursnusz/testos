@@ -2,7 +2,7 @@
     <sys_user_role action="INSERT_OR_UPDATE">
         <assignable_by/>
         <can_delegate>true</can_delegate>
-        <description/>
+        <description>iuiuouo</description>
         <elevated_privilege>false</elevated_privilege>
         <encryption_context/>
         <grantable>true</grantable>
@@ -16,7 +16,7 @@
         <sys_created_on>2019-07-01 19:00:03</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>ed32cccbdb9a7384f17ac4af0596198b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>x_aits2_githab_2.bbbb</sys_name>
         <sys_package display_value="githab_2" source="x_aits2_githab_2">d1266f06dbbd3700fdc880e239961951</sys_package>
         <sys_policy/>
@@ -24,6 +24,6 @@
         <sys_scope display_value="githab_2">d1266f06dbbd3700fdc880e239961951</sys_scope>
         <sys_update_name>sys_user_role_ed32cccbdb9a7384f17ac4af0596198b</sys_update_name>
         <sys_updated_by>artur.snusz</sys_updated_by>
-        <sys_updated_on>2019-07-01 19:00:03</sys_updated_on>
+        <sys_updated_on>2019-07-04 09:09:03</sys_updated_on>
     </sys_user_role>
 </record_update>
